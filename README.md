@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Professional Profile Image -->
+  <img src="https://i.ibb.co/MYtqzvn/11.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00E5FF; object-fit: cover;" alt="Tanzeel Khalid" />
+
+  <br><br>
+
   <!-- Premium Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Tanzeel+Khalid;%7C+Full+Stack+Developer+%26+Entrepreneur;%7C+AI+Automation+Specialist;%7C+Building+Digital+Solutions" alt="Typing Animation" />
 
