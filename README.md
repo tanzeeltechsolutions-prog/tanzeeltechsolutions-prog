@@ -1,8 +1,6 @@
 <div align="center">
 
   <!-- Professional Profile Image -->
-  <img src="https://i.ibb.co/MYtqzvn/11.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00E5FF; object-fit: cover;" alt="Tanzeel Khalid" />
-
   <br><br>
 
   <!-- Premium Typing Animation -->
