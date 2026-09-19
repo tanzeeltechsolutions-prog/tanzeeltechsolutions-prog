@@ -341,7 +341,7 @@ Technology brand focused on modern digital products and solutions.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Aqsaa C Workshop</h3>
+      <h3>Aqsa AC Workshop</h3>
       <p><b>Status:</b> Live</p>
       <p>Professional workshop and service-oriented web platform.</p>
       <p>
